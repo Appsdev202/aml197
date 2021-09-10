@@ -1,0 +1,10 @@
+{
+	"name" : "Skillate Core",
+	"slug" : "skillate-core",
+	"url" : "https://www.themeum.com/",
+	"package" : "https://demo.themeum.com/wordpress/plugins/skillate/skillate-core.zip",
+	"new_version" : "1.1.1",
+	"requires" : "5.0",
+	"author" : "Themeum",
+	"sections" : { }
+}
