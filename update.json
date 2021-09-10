@@ -1,10 +1,10 @@
 {
-	"name" : "Skillate Core",
-	"slug" : "skillate-core",
-	"url" : "https://www.themeum.com/",
-	"package" : "https://demo.themeum.com/wordpress/plugins/skillate/skillate-core.zip",
+	"name" : "Tmrco Core",
+	"slug" : "tmrco-core-main",
+	"url" : "https://www.rimtm.com/",
+	"package" : "https://github.com/Appsdev202/tmrco-core/archive/refs/heads/main.zip",
 	"new_version" : "1.1.1",
 	"requires" : "5.0",
-	"author" : "Themeum",
+	"author" : "rimtm",
 	"sections" : { }
 }
